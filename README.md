@@ -16,7 +16,8 @@
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Jhon-Cobol" height="600" width="500" src="https://pbs.twimg.com/media/EZWsqVCXYAMIz-_?format=jpg&name=large">
 </div>
-  ##
+
+##
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/jhonatan-sidor-garcia-158051169" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
