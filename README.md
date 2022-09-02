@@ -14,7 +14,7 @@
   
 </div align="center">
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Jhon-Cobol" height="300" width="400" src="https://pbs.twimg.com/media/EZWsqVCXYAMIz-_?format=jpg&name=large">
+  <img align="center" alt="Jhon-Cobol" height="600" width="500" src="https://pbs.twimg.com/media/EZWsqVCXYAMIz-_?format=jpg&name=large">
 </div>
   ##
  
