@@ -12,6 +12,10 @@
   <img align="center" alt="Jhon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+</div align="center">
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Jhon-Hadoop" height="30" width="40" src="https://imagens.tiespecialistas.com.br/2013/08/cobol.jpeg">
+</div>
   ##
  
 <div align="center"> 
